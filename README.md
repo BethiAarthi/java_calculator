@@ -23,4 +23,4 @@ This is a simple graphical user interface (GUI) calculator built using Java Swin
    javac calculator.java
 
 
-![Output for the above calculator code](https://github.com/BethiAarthi/java_calculator/calculator.png)
+![Output for the above calculator code](https://github.com/BethiAarthi/java_calculator/blob/main/calculator.png?raw=true)
