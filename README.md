@@ -20,4 +20,4 @@ This is a simple graphical user interface (GUI) calculator built using Java Swin
 3. Open a terminal or command prompt and navigate to the directory containing the file.
 4. Compile the program using:
    ```sh
-   java calculator.java
+   javac calculator.java
